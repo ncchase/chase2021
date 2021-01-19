@@ -1,5 +1,6 @@
 # Credentials
 credentials.py
+client_secret.json
 
 # vscode
 .vscode
