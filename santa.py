@@ -38,14 +38,8 @@ def secret_santa(people_and_their_tags):
         ("husband2", ("male", "company3", "marriage2")),
         ("wife2", ("female", "company2", "marriage2")),
     ]
-
-    husband1 is married to wife1 as seen by the common marriage1 tag
-    person1, person3 and wife1 work at the same company.
-    …
-
     The algorithm will try to match people with the least common characteristics
     between them, to maximize entrop— ehm, mingling!
-
     Have fun."""
 
     # let's split the persons into groups
